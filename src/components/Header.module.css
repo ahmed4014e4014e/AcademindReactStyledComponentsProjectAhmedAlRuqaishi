@@ -1,13 +1,13 @@
-header {
+/* header {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
-}
+} */
 
-header img {
+/* header img {
   object-fit: contain;
   margin-bottom: 2rem;
   width: 11rem;
@@ -23,16 +23,16 @@ header h1 {
   color: #9a3412;
   font-family: "Pacifico", cursive;
   margin: 0;
-}
+} */
 
-.paragraph {
+/* .paragraph {
   text-align: center;
   color: #a39191;
-  /* color: red; */
+ 
   margin: 0;
-}
+} */
 
-@media (min-width: 768px) {
+/* @media (min-width: 768px) {
   header {
     margin-bottom: 4rem;
   }
@@ -40,4 +40,4 @@ header h1 {
   header h1 {
     font-size: 2.25rem;
   }
-}
+} */
